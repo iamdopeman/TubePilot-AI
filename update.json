@@ -1,0 +1,6 @@
+{
+  "appVersion": "1.1.0",
+  "packageUrl": "https://github.com/YOUR_GITHUB_USERNAME/TubePilot-AI/releases/latest/download/TubePilot-AI-Hybrid-AutoUpdate-v1.1.0.zip",
+  "sha256": "b56620b8c30aa12aed667bbf3e4181ee5f08aa56763b5651d7e59ef439b86838",
+  "releaseNotes": "TubePilot AI Hybrid Auto Update Edition. Includes offline SEO tools, optional OpenAI integration, YouTube Data API features, OAuth setup support, and Update Center."
+}
